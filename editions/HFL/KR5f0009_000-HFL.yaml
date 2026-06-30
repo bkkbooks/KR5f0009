@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5f0009/HFL/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 鶡冠子序顛十韓子曰鶡冠子十有六篇其詞雜黄老刑名其博選篇四稽五至之說當矣使其人遇其時援其道而施於國家功德豈少哉學問篇稱賤生於無所用中流失船一壺千金者余三讀其辭而悲之文字脫繆爲之正三十有五字乙者三减者二十有二注十有二字云陸子曰鶡冠子楚人也居於深山以鶡爲冠號曰鶡冠子其道踳駁著書初本黄老而末流迪於刑名傳曰申韓厲名實切事情其極慘礉少恩而原於道德之意蓋學之弊有如此者也故曰孔墨之後儒分爲八墨離爲三嗚呼可不慎哉此書雖雜黄老刑名而要其宿時若散亂而無家者然其奇言奥旨亦每每而有也自博選篇至武靈王問凡十有九篇而退之讀此云十有六篇者非全書也今其書雖具在然文字脫繆不可考者多矣語曰書三寫魚成魯帝成虎豈虚言哉余竊閔之故爲釋其可知者而其不可考者輙疑焉以俟博洽君子
+  hash: sha256:ffb566a8aa98b15652941e18368056f6ab9103cf8e54563ad348b57652aabc64
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5f0009_HFL_000-001a, image: hfl/0842/0842-004.png}
+metadata:
+  title: 鶡冠子
+  edition:
+    short: HFL
+    label: 【正統道藏・涵芬樓版】
+  date: '2015-08-29 02:18:04.272333'
+  source:
+    repository: kanripo
+    path: KR5f0009/KR5f0009_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:37d5c2a60bf1c6a31f60c2943e27bd7c0fe4d0aa68009cbea3cc815d45794126

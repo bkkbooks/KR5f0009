@@ -1,0 +1,131 @@
+canonical_identifier: bkk:krp/KR5f0009/bkk/v1/markers/0
+seq: 0
+markers:
+  front: []
+  body:
+  - {type: 'kr:newline', offset: 0, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl1}
+  - {type: line-break, offset: 0, content: '', id: KR5f0009_HFL_000-001a01}
+  - {type: page-break, offset: 0, content: '', id: KR5f0009_SBCK_003-31b}
+  - {type: page-break, offset: 0, content: '', id: KR5f0009_SBCK_000-1a}
+  - {type: page-break, offset: 0, content: '', id: KR5f0009_SJB_000-270202c, image: sjb/27/270202c.png}
+  - {type: variant, offset: 4, length: 104, content: 顛十韓子曰鶡冠子十有六篇其詞雜黄老刑名其博選篇四稽五至之說當矣使其人遇其時援其道而施於國家功德豈少哉學問篇稱賤生於無所用中流失船一壺千金者余三讀其辭而悲之文字脫繆爲之正三十有五字乙者三减者二十有二注十有二字云, SBCK: ''}
+  - {type: 'kr:newline', offset: 6, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl2}
+  - {type: line-break, offset: 6, content: '', id: KR5f0009_HFL_000-001a02}
+  - {type: substitution, offset: 19, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4545}}
+  - {type: 'kr:newline', offset: 23, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl3}
+  - {type: line-break, offset: 23, content: '', id: KR5f0009_HFL_000-001a03}
+  - {type: 'kr:newline', offset: 40, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl4}
+  - {type: line-break, offset: 40, content: '', id: KR5f0009_HFL_000-001a04}
+  - {type: 'kr:newline', offset: 57, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl5}
+  - {type: line-break, offset: 57, content: '', id: KR5f0009_HFL_000-001a05}
+  - {type: 'kr:newline', offset: 74, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl6}
+  - {type: line-break, offset: 74, content: '', id: KR5f0009_HFL_000-001a06}
+  - {type: substitution, offset: 85, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 91, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl7}
+  - {type: line-break, offset: 91, content: '', id: KR5f0009_HFL_000-001a07}
+  - {type: 'kr:newline', offset: 108, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl8}
+  - {type: line-break, offset: 108, content: '', id: KR5f0009_HFL_000-001a08}
+  - {type: variant, offset: 109, length: 1, content: 子, SBCK: 佃}
+  - {type: variant, offset: 110, length: 1, content: 曰, SBCK: 撰}
+  - {type: variant, offset: 123, length: 1, content: 爲, SBCK: 為}
+  - {type: substitution, offset: 123, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 125, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl9}
+  - {type: line-break, offset: 125, content: '', id: KR5f0009_HFL_000-001a09}
+  - {type: substitution, offset: 138, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4545}}
+  - {type: 'kr:newline', offset: 142, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl10}
+  - {type: line-break, offset: 142, content: '', id: KR5f0009_HFL_000-001a10}
+  - {type: 'kr:newline', offset: 159, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl11}
+  - {type: page-break, offset: 159, content: '', id: KR5f0009_HFL_000-001b, image: hfl/0842/0842-005.png}
+  - {type: 'kr:newline', offset: 159, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl12}
+  - {type: line-break, offset: 159, content: '', id: KR5f0009_HFL_000-001b01}
+  - {type: variant, offset: 167, length: 1, content: 德, SBCK: 徳}
+  - {type: variant, offset: 170, length: 1, content: 蓋, SBCK: 盖}
+  - {type: 'kr:newline', offset: 176, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl13}
+  - {type: line-break, offset: 176, content: '', id: KR5f0009_HFL_000-001b02}
+  - {type: variant, offset: 187, length: 1, content: 爲, SBCK: 為}
+  - {type: substitution, offset: 187, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: variant, offset: 191, length: 1, content: 爲, SBCK: 為}
+  - {type: substitution, offset: 191, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: 'kr:newline', offset: 193, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl14}
+  - {type: line-break, offset: 193, content: '', id: KR5f0009_HFL_000-001b03}
+  - {type: variant, offset: 193, length: 1, content: 嗚, SBCK: 鳴}
+  - {type: variant, offset: 198, length: 1, content: 哉, SBCK: 㢤}
+  - {type: substitution, offset: 203, original: 黄, replacement: 黃, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4545}}
+  - {type: 'kr:newline', offset: 210, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl15}
+  - {type: line-break, offset: 210, content: '', id: KR5f0009_HFL_000-001b04}
+  - {type: page-break, offset: 213, content: '', id: KR5f0009_SBCK_000-1b}
+  - {type: variant, offset: 221, length: 1, content: 奇, SBCK: 竒}
+  - {type: substitution, offset: 223, original: 奥, replacement: 奧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4338}}
+  - {type: variant, offset: 224, length: 1, content: 旨, SBCK: 㫖}
+  - {type: 'kr:newline', offset: 227, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl16}
+  - {type: line-break, offset: 227, content: '', id: KR5f0009_HFL_000-001b05}
+  - {type: variant, offset: 232, length: 1, content: 博, SBCK: 愽}
+  - {type: 'kr:newline', offset: 244, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl17}
+  - {type: line-break, offset: 244, content: '', id: KR5f0009_HFL_000-001b06}
+  - {type: 'kr:newline', offset: 261, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl18}
+  - {type: line-break, offset: 261, content: '', id: KR5f0009_HFL_000-001b07}
+  - {type: 'kr:newline', offset: 278, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl19}
+  - {type: line-break, offset: 278, content: '', id: KR5f0009_HFL_000-001b08}
+  - {type: variant, offset: 281, length: 1, content: 寫, SBCK: 冩}
+  - {type: variant, offset: 287, length: 1, content: 虎, SBCK: 乕}
+  - {type: variant, offset: 289, length: 1, content: 虚, SBCK: 虗}
+  - {type: substitution, offset: 289, original: 虚, replacement: 虛, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-4533}}
+  - {type: variant, offset: 291, length: 1, content: 哉, SBCK: 㢤}
+  - {type: variant, offset: 293, length: 1, content: 竊, SBCK: ''}
+  - {type: 'kr:newline', offset: 295, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl20}
+  - {type: line-break, offset: 295, content: '', id: KR5f0009_HFL_000-001b09}
+  - {type: variant, offset: 297, length: 1, content: 爲, SBCK: 為}
+  - {type: substitution, offset: 297, original: 爲, replacement: 為, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-3592}}
+  - {type: substitution, offset: 309, original: 輙, replacement: 輒, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e', entry: vf-2042}}
+  - {type: 'kr:newline', offset: 312, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl21}
+  - {type: line-break, offset: 312, content: '', id: KR5f0009_HFL_000-001b10}
+  - {type: variant, offset: 314, length: 1, content: 博, SBCK: ''}
+  - {type: 'kr:newline', offset: 318, content: '
+
+      ', id: KR5f0009_krp_000-bkkkrnewl22}
+  - {type: variant, offset: 318, length: 0, content: '', SBCK: 讀鶡冠子韓愈鶡冠子十有六篇其詞雜黄老刑名其愽選篇四稽五至之說當矣使其人遇其時援其道而施於國家功徳豈少㢤學問篇稱賤生於無所用中流失船一壺千金者余三讀其辭而悲之文字脫繆為之正三十有五字乙者三减者二十有二注十有二字云}
+  - {type: page-break, offset: 318, content: '', id: KR5f0009_SBCK_000-2a}
+  back: []
+hash: sha256:d60bfc69cbd442fc902a41d4411c776e90166bfc04356ab71092c8f755b5e2c4
